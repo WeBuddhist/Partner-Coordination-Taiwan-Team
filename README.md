@@ -84,15 +84,15 @@ We prioritize partners based on the following strategic criteria:
 - Release Phase 1 core app shell (1-2 core texts).
 
 ### Q2: Product & Pilot
-- Initiate "pampering" strategy with first 4 Vision Partners.
+- Initiate "pampering" strategy with first 2 Vision Partners.
 - Launch private group modules and collaborative plans.
 
 ### Q3: Hybrid Expansion
-- First 4 Vision Partners successfully transition to hybrid models.
+- First 2 Vision Partners successfully transition to hybrid models.
 - Launch AI-assisted translation and peer-to-peer reactions.
 
 ### Q4: Scale & Celebration
-- Achieve total of 8 hybrid Vision Partners.
+- Achieve total of 4 hybrid Vision Partners.
 - Complete library of 10 core texts and personal AI Dharma Assistant.
 
 ---
