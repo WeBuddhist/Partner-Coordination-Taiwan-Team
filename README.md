@@ -13,9 +13,9 @@ Performance in this role is evaluated solely by the growth of **Chinese-speaking
 
 ### 2026 Year-End Strategic Targets
 
-- **Daily Active Users (DAU):** 40,000
-- **Total Downloads/Users:** 400,000
-- **Hybrid Success:** 8 Vision Partners successfully transitioned to hybrid (online/offline) community models.
+- **Daily Active Users (DAU):** 10,000
+- **Total Downloads/Users:** 100,000
+- **Hybrid Success:** 4 Vision Partners successfully transitioned to hybrid (online/offline) community models.
 
 ---
 
